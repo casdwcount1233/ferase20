@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://anne-plugins-plain-received.trycloudflare.com/vnc.html
+URL       : https://study-loud-tip-desktop.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-29 20:43:12
+Created   : 2026-07-30 01:11:56
 =======================================================
