@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://separated-aug-minds-janet.trycloudflare.com/vnc.html
+URL       : https://summit-departmental-sets-funky.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-02 07:27:15
+Created   : 2026-08-02 11:11:32
 =======================================================
