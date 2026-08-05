@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://transition-kijiji-seattle-marco.trycloudflare.com/vnc.html
+URL       : https://configured-extra-cassette-digital.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 16:27:39
+Created   : 2026-08-05 20:55:25
 =======================================================
