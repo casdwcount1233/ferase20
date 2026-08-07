@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://nuke-figured-blah-disc.trycloudflare.com/vnc.html
+URL       : https://dept-conversion-shake-aircraft.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 15:43:21
+Created   : 2026-08-07 20:27:59
 =======================================================
