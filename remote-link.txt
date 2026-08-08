@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dept-conversion-shake-aircraft.trycloudflare.com/vnc.html
+URL       : https://dover-pda-exhibitions-navigate.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 20:27:59
+Created   : 2026-08-08 00:39:57
 =======================================================
