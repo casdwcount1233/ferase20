@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://auckland-volunteers-signing-olympus.trycloudflare.com/vnc.html
+URL       : https://discretion-scenarios-shake-mustang.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-23 10:12:31
+Created   : 2026-08-23 15:11:12
 =======================================================
